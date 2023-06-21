@@ -1,0 +1,13 @@
+.\objects\gpt.o: Gpt.c
+.\objects\gpt.o: Std_Types.h
+.\objects\gpt.o: Platform_Types.h
+.\objects\gpt.o: Compiler.h
+.\objects\gpt.o: Gpt.h
+.\objects\gpt.o: Gpt_Types.h
+.\objects\gpt.o: IntCtrl_Types.h
+.\objects\gpt.o: Gpt_Cfg.h
+.\objects\gpt.o: IntCtrl.h
+.\objects\gpt.o: IntCtrl_Cfg.h
+.\objects\gpt.o: Gpt_regs.h
+.\objects\gpt.o: Mcu_Hw.h
+.\objects\gpt.o: Macros.h

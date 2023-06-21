@@ -1,0 +1,11 @@
+.\objects\led.o: Led.c
+.\objects\led.o: Std_Types.h
+.\objects\led.o: Platform_Types.h
+.\objects\led.o: Compiler.h
+.\objects\led.o: Led.h
+.\objects\led.o: Dio.h
+.\objects\led.o: Dio_Cfg.h
+.\objects\led.o: Dio_Types.h
+.\objects\led.o: Port_Types.h
+.\objects\led.o: Port.h
+.\objects\led.o: Port_Cfg.h
