@@ -22,7 +22,7 @@ void app_start (void)
 	{	
 		
 		
-		Blink_Start2(BLINKING_GPTM, WaveTime , onPeriod, offPeriod);	
+		Blink_Start(BLINKING_GPTM, WaveTime , onPeriod, offPeriod);	
 		
 			 				if (Button_GetState(BUTTON_1,PULL_UP )== BUTTON_PRESSED)
 	{	      
