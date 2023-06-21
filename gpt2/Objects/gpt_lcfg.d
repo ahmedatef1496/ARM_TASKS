@@ -1,0 +1,14 @@
+.\objects\gpt_lcfg.o: Gpt_Lcfg.c
+.\objects\gpt_lcfg.o: Std_Types.h
+.\objects\gpt_lcfg.o: Platform_Types.h
+.\objects\gpt_lcfg.o: Compiler.h
+.\objects\gpt_lcfg.o: Gpt_Types.h
+.\objects\gpt_lcfg.o: IntCtrl_Types.h
+.\objects\gpt_lcfg.o: Gpt_regs.h
+.\objects\gpt_lcfg.o: Gpt.h
+.\objects\gpt_lcfg.o: Gpt_Cfg.h
+.\objects\gpt_lcfg.o: Dio.h
+.\objects\gpt_lcfg.o: Dio_Cfg.h
+.\objects\gpt_lcfg.o: Dio_Types.h
+.\objects\gpt_lcfg.o: Port_Types.h
+.\objects\gpt_lcfg.o: Macros.h

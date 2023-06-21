@@ -1,0 +1,9 @@
+.\objects\intctrl.o: IntCtrl.c
+.\objects\intctrl.o: Std_Types.h
+.\objects\intctrl.o: Platform_Types.h
+.\objects\intctrl.o: Compiler.h
+.\objects\intctrl.o: IntCtrl.h
+.\objects\intctrl.o: IntCtrl_Cfg.h
+.\objects\intctrl.o: IntCtrl_Types.h
+.\objects\intctrl.o: Mcu_Hw.h
+.\objects\intctrl.o: Macros.h
